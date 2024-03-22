@@ -36,7 +36,11 @@ Et c'est reparti :)
 ## Règles
 Comment savoir si l'année est bissextile?
 
-Une année bissextile est une année divisble par 4, sauf pour les années qui sont à la fois divisibles par 100 et non divisibles par 400. 
+- Toutes les années divisibles par 400 SONT des années bissextiles
+- Toutes les années divisibles par 100 mais pas par 400 NE SONT PAS des années bissextiles
+- Toutes les années divisibles par 4 mais pas par 100 SONT des années bissextiles
+- Toutes les années non divisibles par 4 NE SONT PAS des années bissextiles 
+
 
 
 
