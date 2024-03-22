@@ -2,10 +2,10 @@
 A simple Kata with the classical FizzBzz on TypeScript 
 
 ## First step
-Clone this repo and `yarn`
+Open a terminal, Clone this repo, `cd kata_tdd_fizzbuzz` and `yarn`
 
 ## Second step
-Create on the directory src and open your fizzBuzz.test.ts file on `__test__`
+Create the directory `src` and open your fizzBuzz.test.ts file on `__test__`
 
 ## Third step
 Start the TDD session
