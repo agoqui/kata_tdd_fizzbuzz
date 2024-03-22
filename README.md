@@ -5,7 +5,7 @@ A simple Kata with the classical FizzBzz on TypeScript
 Clone this repo and `yarn`
 
 ## Second step
-Create on the repo __test__, your fizzBuzz.test.ts file
+Create on the directory src and open your fizzBuzz.test.ts file on `__test__`
 
 ## Third step
 Start the TDD session
